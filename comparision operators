@@ -1,0 +1,32 @@
+Comparision operators are used to give the relation between 2 operands
+types of comparision operators:
+<less than
+>greater than
+>=greater than equals to
+<=lesser than equals to
+==equals to
+!=not equals to
+example:
+a=10,b=5
+a>b
+RETURN TRUE
+greater than operation 
+a=5,b=10
+RETURN TRUE
+lesser than operation
+a=5,b=10
+b>=a
+RETURN TRUE
+greater than equals to operation
+b=10,a=5
+a<=5
+RETURN TRUE
+lesser than equals to operation
+a=5,b=10
+a!=b
+RETURN TRUE
+not equal to operation
+a=5,b=5
+a==b
+RETURN TRUE
+equals to operation 
